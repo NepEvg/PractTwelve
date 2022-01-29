@@ -15,13 +15,13 @@ namespace Pr12
             switch (ans)
             {
                 case "+":
-
+                    
                     break;
                 case "-":
-
+                    
                     break;
                 case "*":
-
+                    Console.WriteLine(a * b);
                     break;
                 case "/":
 
