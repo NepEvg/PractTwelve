@@ -15,7 +15,7 @@ namespace Pr12
             switch (ans)
             {
                 case "+":
-
+                    Console.WriteLine(a+b);
                     break;
                 case "-":
 
