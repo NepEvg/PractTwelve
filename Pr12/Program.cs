@@ -21,7 +21,7 @@ namespace Pr12
                     Console.WriteLine(a - b);
                     break;
                 case "*":
-                    
+                    Console.WriteLine(a * b );
                     break;
                 case "/":
                     Console.WriteLine(a / b);
